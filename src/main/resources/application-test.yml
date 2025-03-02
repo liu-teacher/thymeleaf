@@ -1,0 +1,9 @@
+server:
+  port: 8085
+
+user:
+  age: 18
+  books-name: 水浒传
+  book:
+    bookName: 算法设计
+    bookPrice: 103

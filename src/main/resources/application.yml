@@ -1,0 +1,17 @@
+# 应用服务 WEB 访问端口
+server:
+ port: 8081
+
+spring:
+ profiles:
+    active: dev
+
+
+user:
+  age: 18
+  books-name: 红楼梦
+  book:
+    bookName: springBoot
+    bookPrice: 100
+  hobby: [打篮球, 睡觉]
+
