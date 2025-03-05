@@ -34,7 +34,7 @@ public class EmpController {
     private String realPath;
 
     //更新员工信息方法
-    //12334444
+    //123344441213124114
     @PostMapping("/update")
     public String update(Emp emp,MultipartFile img) throws IOException {
         String originalFilename = img.getOriginalFilename();
